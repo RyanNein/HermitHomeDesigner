@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 353a6e6c8f7e94d45987f2410ba4f6d4, type: 3}
+  m_Name: Level03
+  m_EditorClassIdentifier: 
+  levelMusic: {fileID: 8300000, guid: 76339dd381f9b8845b47bfc386737ee9, type: 3}
+  musicVolume: 1
+  nextScene: 4
+  levelStory: {fileID: 4900000, guid: 3593490b981137741a3cfadcf7a8a6ed, type: 3}
+  panelBackground: {fileID: 21300000, guid: da3b07b087542b24290ce77a4e98b168, type: 3}
+  levelIndex: 2

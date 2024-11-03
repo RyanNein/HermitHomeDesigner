@@ -1,0 +1,51 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class FurnitureManager : MonoBehaviour
+{
+    public static FurnitureManager instance;
+	private void Awake()
+	{
+		if (instance == null)
+			instance = this;
+	}
+
+	public delegate void FurnitureEvents();
+	public static event FurnitureEvents furnitureCreated;
+	public static event FurnitureEvents furnitureDestroyed;
+
+	public List<Furniture> ActiveFurniture = new List<Furniture>();
+
+	public void CreateFurniture(GameObject _furn)
+	{
+		SpawnFurn(_furn);
+		furnitureCreated?.Invoke();
+	}
+
+	public void DestroyFurniture()
+	{
+		furnitureDestroyed?.Invoke();
+	}
+
+	[SerializeField] GameObject furnObject;
+	private void SpawnFurn(GameObject _furn)
+	{
+		GameObject inst = Instantiate(_furn, transform.position, Quaternion.identity);
+		var playerScript = Player.instance;
+		playerScript.heldFurn = inst;
+		playerScript.mode = Player.states.holding;
+	}
+
+
+	// ------------ DEBUG
+	private void Update()
+	{
+		if (Input.GetKeyDown(KeyCode.W))
+		{
+			CreateFurniture(furnObject);
+		}
+	}
+
+
+}

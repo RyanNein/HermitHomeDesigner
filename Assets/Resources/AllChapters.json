@@ -1,0 +1,433 @@
+{
+  "chapter01_start_story": {
+    "pages": [
+      {
+        "text": "Welcome to Hermit home designer, You can call me Yamasen-Chan!",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "My bedroom is in need of a complete makeover, can you help me design it?",
+        "name": true
+      },
+      {
+        "text": "But first, can I tell you a bit of a secret?\nI may not look like it, but I’m actually a hikikomori. Te he.",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "A hikikomori is like a hermit who shuts themself off from the world to live in isolation.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "There are a lot of negative misconceptions about hikikomori being dirty slobs and living in messy rooms but that’s just not true.",
+        "spr": "port_coy",
+        "name": true
+      },
+      {
+        "text": "Just because I’m a hikikomori doesn’t mean I can’t have a good looking room. In fact, I have even more reason to make my room look great, It’s my whole world after all!",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "I want my room to be like a one-stop hermit paradise with lots of entertainment and cute plushies and instant ramen...",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "Ooooh, I’m so excited!",
+        "name": true
+      },
+      {
+        "text": "Let’s get designing!",
+        "name": true
+      }
+    ]
+  },
+  "chapter01_end_story": {
+    "pages": [
+      {
+        "text": "Wow, my room looks so amazing now!",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "I can’t wait to-",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "",
+        "spr": "port_surp",
+        "name": false,
+        "sfx": "sfx_door_bell"
+      },
+      {
+        "text": "Huh! Oh no, Someones at the door!",
+        "name": true
+      },
+      {
+        "text": "What do I do?",
+        "name": true
+      },
+      {
+        "text": "",
+        "spr": "port_blank",
+        "name": false,
+        "sfx": "sfx_door_slam"
+      }
+    ]
+  },
+  "chapter02_start_story": {
+    "pages": [
+      {
+        "text": "He he he...",
+        "spr": "port_coy",
+        "name": true
+      },
+      {
+        "text": "Um... so...",
+        "name": true
+      },
+      {
+        "text": "That was scary, I almost had to have a social interaction. \nWho knows what could have happened.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "You may think it’s weird for me to hide in here, but I became a hikikomori because my social anxiety makes it really hard to talk to people.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "Sometimes it can become a real problem. But that’s okay, we can just design here in the closet, right?",
+        "spr": "port_sad",
+        "name": true
+      },
+      {
+        "text": "This place is cool too, right?",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "Maybe I should just live in here from now on...",
+        "spr": "port_coy",
+        "name": true
+      }
+    ]
+  },
+  "chapter02_end_story": {
+    "pages": [
+      {
+        "text": "Isn’t this new room so cozy?",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "Though it’s getting a bit hard to breathe...",
+        "spr": "port_coy",
+        "name": true
+      },
+      {
+        "text": "Do you think the person at the door is gone? I’ll go check.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "...",
+        "spr": "port_blank",
+        "name": false
+      },
+      {
+        "text": "Phew, they’re gone. That was a close one.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "Turns out it was just the postman leaving the mail. What a relief.",
+        "name": true
+      },
+      {
+        "text": "There’s a letter from my parents! Let’s see what it says...",
+        "name": true
+      },
+      {
+        "text": "...",
+        "name": true
+      },
+      {
+        "text": "...",
+        "spr": "port_sad",
+        "name": true
+      },
+      {
+        "text": "My parents say I spent too much money on furniture. They’re cutting my allowance and aren’t going to pay my rent anymore...",
+        "spr": "port_sad",
+        "name": true
+      }
+    ]
+  },
+  "chapter03_start_story": {
+    "pages": [
+      {
+        "text": "Soooo, I had to leave my apartment but it’s not that big a deal. In fact, I think this will be good for me!",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "Now I’ll have to learn how to exist like a normal person out in the real world.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "I had some money saved up and I bought an amazing used trailer home for me to live in. Now when people try to talk to me, I can just drive away from them without having to leave the comfort of home!",
+        "name": true
+      },
+      {
+        "text": "This new home may be small, but that also means it’s cute. How about we name it Trailer-Tan. Te he.",
+        "spr": "port_excited",
+        "name": true
+      }
+    ]
+  },
+  "chapter03_end_story": {
+    "pages": [
+      {
+        "text": "Trailer-Tan is even cuter now that it’s all decorated!",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "Living here is going to be so much-",
+        "name": true
+      },
+      {
+        "text": "",
+        "spr": "port_blank",
+        "name": false,
+        "sfx": "sfx_door_knock"
+      },
+      {
+        "text": "Someone is at the door, you know what that means!",
+        "spr": "port_surp",
+        "name": true
+      },
+      {
+        "text": "",
+        "spr": "port_blank",
+        "name": false,
+        "sfx": "sfx_rv_startup"
+      }
+    ]
+  },
+  "chapter04_start_story": {
+    "pages": [
+      {
+        "text": "Wow, people sure are scary.",
+        "spr": "port_coy",
+        "name": true
+      },
+      {
+        "text": "I think I may have gotten a bit carried away with my escape. I kept driving away until I ended up in the mountains with no gas.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "But you know what, running out of gas was a happy accident because I found this: A brand new home!",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "A mountain cave is an ideal home for a Hikikomori. I’ll be far away from society and I’ll never have to worry about socializing with people ever again!",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "Plus this cave is spacious, which means there is so much room to design with!",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "Living here, I’ll be just like a zen monk, or like Buddha! I won’t have to talk to anyone or worry about my social anxiety and it’ll be so much fun!",
+        "name": true
+      }
+    ]
+  },
+  "chapter04_end_story": {
+    "pages": [
+      {
+        "text": "This design is really great, but you know, I’ve been thinking...",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "About this cave and all...",
+        "spr": "port_coy",
+        "name": true
+      },
+      {
+        "text": "There is still a chance that people will come here and try to socialize with me and that’s not a risk I should have to take. Just thinking about the possibility makes me anxious.",
+        "name": true
+      },
+      {
+        "text": "There must be a better way to live.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "I can take things even further! I can leave society completely and never have to socialize at all! Then I’ll become the one true hikikomori!",
+        "spr": "port_surp",
+        "name": true
+      },
+      {
+        "text": "I have an idea! Te he.",
+        "spr": "port_excited",
+        "name": true
+      }
+    ]
+  },
+  "chapter05_start_story": {
+    "pages": [
+      {
+        "text": "Burr, it sure is cold.",
+        "spr": "port_sad",
+        "name": true
+      },
+      {
+        "text": "My new home is in the arctic!\nGetting here sure was difficult, but now I’m completely separated from society!",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "The best part is that if someone tries to approach me, I’ll see them from miles away and I’ll have plenty of time to escape.",
+        "name": true
+      },
+      {
+        "text": "Burr, I’m still not sure what to do about this weather though.",
+        "spr": "port_sad",
+        "name": true
+      },
+      {
+        "text": "But you know, having a bit of chills is worth it to not have to worry about social anxiety!",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "This little iceberg is so cute, perfect for designing!",
+        "spr": "port_excited",
+        "name": true
+      }
+    ]
+  },
+  "chapter05_end_story": {
+    "pages": [
+      {
+        "text": "This design is really great, but you know, I’ve been thinking...",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "Burr, it REALLY is cold...",
+        "spr": "port_sad",
+        "name": true
+      },
+      {
+        "text": "It is worth it though right?",
+        "spr": "port_coy",
+        "name": true
+      },
+      {
+        "text": "Maybe there’s a better way to live.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "Oh, I know how to fix this. My time alone in the mountains helped me to look inward and find my true self. I realized that if I just meditate and look within myself, I can overcome my physical body and not feel cold at all!",
+        "name": true
+      },
+      {
+        "text": "If I can do that, living here will be perfect!",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "Let’s try it.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "...",
+        "name": true
+      },
+      {
+        "text": "...",
+        "name": true
+      }
+    ]
+  },
+  "chapter06_start_story": {
+    "pages": [
+      {
+        "text": "I finally figured it out! How to truly solve all my problems. Te he.",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "The solution was not just to leave society, but to leave the physical world as well!",
+        "name": true
+      },
+      {
+        "text": "From now on, I’ll live completely inside my mind and never have to worry about the real world ever again!",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "I’ve finally cured my social anxiety!",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "And on top of that, we have an infinite space to design with now. How fun!",
+        "name": true
+      }
+    ]
+  },
+  "chapter06_end_story": {
+    "pages": [
+      {
+        "text": "Isn’t it great, I can design in here forever!",
+        "spr": "port_excited",
+        "name": true
+      },
+      {
+        "text": "You know, I tried so hard in the past to be like a normal person but there was nothing I could do to make it work. My anxieties and abnormalities forced me into a state of isolation, but I’ve come to realize that that’s okay.",
+        "spr": "port_coy",
+        "name": true
+      },
+      {
+        "text": "I’ve realized this really is the only way to live for a hikikomori like me.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "Sure, I might get lonely from time to time, but I know now that it really is worth it. I finally cured myself of anxiety and can live comfortably like a normal person here inside the void beyond the physical world.",
+        "spr": "port_coy",
+        "name": true
+      },
+      {
+        "text": "Thank you for being so understanding and helping me design such great homes. It’s a shame most of them didn’t work out better, but I’m fairly certain I can live at peace here for a long time.",
+        "spr": "port_norm",
+        "name": true
+      },
+      {
+        "text": "Feel free to come and visit anytime.",
+        "name": true
+      },
+      {
+        "text": "Goodbye.",
+        "name": true
+      }
+    ]
+  }
+}

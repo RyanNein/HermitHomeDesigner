@@ -1,0 +1,762 @@
+{
+  "obj_furn_rock_1": {
+    "title": "Rocks",
+    "description": "My furniture options are a bit limited now that I live in a cave, but I’ll make the most of it.",
+    "sprite": "spr_rock_1",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_rock_2": {
+    "title": "Rocks",
+    "description": "Designing with rocks is like a creative challenge. How exciting!",
+    "sprite": "spr_rock_2",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_rock_3": {
+    "title": "Rocks",
+    "description": "Having rock furniture is worth it if I don’t have to have social interactions anymore.",
+    "sprite": "spr_rock_3",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_rock_4": {
+    "title": "Rocks",
+    "description": "Buddha didn’t need material possessions and neither do I.",
+    "sprite": "spr_rock_4",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_rock_5": {
+    "title": "Rocks",
+    "description": "Maybe I can paint these rocks pink.",
+    "sprite": "spr_rock_5",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_rock_6": {
+    "title": "Rocks",
+    "description": "Just more rocks.",
+    "sprite": "spr_rock_6",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_rock_7": {
+    "title": "Rocks",
+    "description": "This rock is kinda cute, who needs normal furniture.",
+    "sprite": "spr_rock_7",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_rock_8": {
+    "title": "Rocks",
+    "description": "I’m gonna call this one rock-tan, te he!",
+    "sprite": "spr_rock_8",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_rock_9": {
+    "title": "Rocks",
+    "description": "Maybe living in a cave was a mistake...",
+    "sprite": "spr_rock_9",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_rock_10": {
+    "title": "Rocks",
+    "description": "What am I doing with my life.",
+    "sprite": "spr_rock_10",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_snow_lump_1": {
+    "title": "Snow Lump",
+    "description": "This is just the rocks all over again.",
+    "sprite": "spr_snow_lump_1",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_snow_lump_2": {
+    "title": "Snow Lump",
+    "description": "At least these are softer than the rocks.",
+    "sprite": "spr_snow_lump_2",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_snow_lump_3": {
+    "title": "Snow Lump",
+    "description": "Snow can easily be formed into a chair.",
+    "sprite": "spr_snow_lump_3",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_snow_lump_4": {
+    "title": "Snow Lump",
+    "description": "I don’t have to stockpile water anymore now that I have so much snow!",
+    "sprite": "spr_snow_lump_4",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_snow_lump_5": {
+    "title": "Snow Lump",
+    "description": "Life hack: lumps of snow make for great pillows.",
+    "sprite": "spr_snow_lump_5",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_snow_lump_6": {
+    "title": "Snow Lump",
+    "description": "You get a snow lump, you get a snow lump, you get a snow lump, everybody gets a snow lump!",
+    "sprite": "spr_snow_lump_6",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_snow_lump_7": {
+    "title": "Snow Lump",
+    "description": "I’m starting to miss the rocks.",
+    "sprite": "spr_snow_lump_7",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_snow_lump_8": {
+    "title": "Snow Lump",
+    "description": "Snow-Chan, Snow-Kun, Lump-Tan...",
+    "sprite": "spr_snow_lump_8",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_snow_lump_9": {
+    "title": "Snow Lump",
+    "description": "Still. More. Snow.",
+    "sprite": "spr_snow_lump_9",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_snow_lump_10": {
+    "title": "Snow Lump",
+    "description": "Really, what am I doing with my life?",
+    "sprite": "spr_snow_lump_10",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_bed": {
+    "title": "Bed",
+    "description": "This is where I spend most of my life.",
+    "sprite": "spr_bed",
+    "menuIndex": 0,
+    "available": "100111"
+  },
+  "obj_furn_dakimakura": {
+    "title": "Dakimakura",
+    "description": "This is a totally normal body pillow. Don’t flip it over though.",
+    "sprite": "spr_dakimakura",
+    "menuIndex": 0,
+    "available": "110111"
+  },
+  "obj_furn_fridge": {
+    "title": "Mini-Fridge",
+    "sprite": "spr_fridge",
+    "menuIndex": 0,
+    "available": "101011"
+  },
+  "obj_furn_bookshelf": {
+    "title": "Bookshelf",
+    "sprite": "spr_bookshelf",
+    "menuIndex": 0,
+    "available": "111001"
+  },
+  "obj_furn_dresser": {
+    "title": "Dresser",
+    "description": "Who knows what might be inside.",
+    "sprite": "spr_dresser",
+    "menuIndex": 0,
+    "available": "111001"
+  },
+  "obj_furn_box": {
+    "title": "Box",
+    "sprite": "spr_box",
+    "menuIndex": 0,
+    "available": "111111"
+  },
+  "obj_furn_table": {
+    "title": "Table",
+    "sprite": "spr_table",
+    "menuIndex": 0,
+    "available": "100001"
+  },
+  "obj_furn_desk": {
+    "title": "Desk",
+    "sprite": "spr_desk",
+    "menuIndex": 0,
+    "available": "111001"
+  },
+  "obj_furn_kotatsu": {
+    "title": "Kotatsu",
+    "description": "I could stay under here for days. Actually, I have.",
+    "sprite": "spr_kotatsu",
+    "menuIndex": 0,
+    "available": "100111"
+  },
+  "obj_furn_seat": {
+    "title": "Cushion",
+    "sprite": "spr_seat",
+    "menuIndex": 0,
+    "available": "111111"
+  },
+  "obj_furn_tatami": {
+    "title": "Tatami Mat",
+    "sprite": "spr_tatami",
+    "menuIndex": 0,
+    "available": "100101"
+  },
+  "obj_furn_lamp": {
+    "title": "Lamp",
+    "sprite": "spr_lamp",
+    "menuIndex": 0,
+    "available": "111101",
+    "prefab": true
+  },
+  "obj_furn_plant": {
+    "title": "Plant",
+    "sprite": "spr_plant",
+    "menuIndex": 1,
+    "available": "001001"
+  },
+  "obj_furn_cactus": {
+    "title": "Cactus",
+    "description": "Don’t be mad at a cactus if it pokes you, It can’t help it.",
+    "sprite": "spr_cactus",
+    "menuIndex": 1,
+    "available": "001001"
+  },
+  "obj_furn_peperomia": {
+    "title": "Peperomia Plant",
+    "sprite": "spr_peperomia",
+    "menuIndex": 1,
+    "available": "101001"
+  },
+  "obj_furn_snake_plant": {
+    "title": "Snake Plant",
+    "description": "Luckily, there are no actual snakes in this plant.",
+    "sprite": "spr_snake_plant",
+    "menuIndex": 1,
+    "available": "101001"
+  },
+  "obj_furn_jade": {
+    "title": "Jade Plant",
+    "sprite": "spr_jade",
+    "menuIndex": 1,
+    "available": "101001"
+  },
+  "obj_furn_flamingo": {
+    "title": "Flamingo",
+    "description": "Hopefully flamingo-chan will scare away people like a guard dog.",
+    "sprite": "spr_flamingo",
+    "menuIndex": 1,
+    "available": "001011"
+  },
+  "obj_furn_tissues": {
+    "title": "Tissues",
+    "description": "You can’t get sick if you never go outside!",
+    "sprite": "spr_tissues",
+    "menuIndex": 1,
+    "available": "111111"
+  },
+  "obj_furn_shelf": {
+    "title": "Shelf",
+    "sprite": "spr_shelf",
+    "menuIndex": 2,
+    "available": "111101"
+  },
+  "obj_furn_microwave": {
+    "title": "Microwave",
+    "description": "A microwave is a complete kitchen when all you eat is ramen!",
+    "sprite": "spr_microwave_off",
+    "alt_sprite": "spr_microwave_on",
+    "menuIndex": 1,
+    "available": "000111",
+    "prefab": true
+  },
+  "obj_furn_window": {
+    "title": "Window",
+    "description": "Please don’t use that! Someone might look inside.",
+    "sprite": "spr_window",
+    "menuIndex": 2,
+    "available": "100001"
+  },
+  "obj_furn_picture": {
+    "title": "Picture",
+    "sprite": "spr_picture",
+    "menuIndex": 2,
+    "available": "111001"
+  },
+  "obj_furn_calendar": {
+    "title": "Calendar",
+    "description": "I’ve gone almost three months without going outside. A new record!",
+    "sprite": "spr_calendar",
+    "menuIndex": 2,
+    "available": "101001"
+  },
+  "obj_furn_tea": {
+    "title": "Tea",
+    "description": "Cheap and caffeinated.",
+    "sprite": "spr_tea",
+    "menuIndex": 1,
+    "available": "101101"
+  },
+  "obj_furn_computer": {
+    "title": "Computer",
+    "description": "This is where I keep my life.",
+    "sprite": "spr_computer",
+    "menuIndex": 1,
+    "available": "101001",
+    "prefab": true
+  },
+  "obj_furn_carpet_circle": {
+    "title": "Circular Carpet",
+    "sprite": "spr_carpet",
+    "menuIndex": 0,
+    "available": "100111"
+  },
+  "obj_furn_carpet_rect": {
+    "title": "Rectangular Carpet",
+    "sprite": "spr_carpet_rect",
+    "menuIndex": 0,
+    "available": "001001"
+  },
+  "obj_furn_buddha": {
+    "title": "Buddha Statue",
+    "description": "Buddha understood what it was like to live in isolation.",
+    "sprite": "spr_buddha",
+    "menuIndex": 1,
+    "available": "000101"
+  },
+  "obj_furn_fox": {
+    "title": "Fox Statue",
+    "description": "Like having a dog but without all the annoying responsibilities.",
+    "sprite": "spr_fox",
+    "menuIndex": 1,
+    "available": "000101"
+  },
+  "obj_furn_rake": {
+    "title": "Rake",
+    "description": "What patterns should I make in the zen garden?",
+    "sprite": "spr_rake",
+    "menuIndex": 1,
+    "available": "000101"
+  },
+  "obj_furn_poster_1": {
+    "title": "Poster",
+    "description": "No hikikomori’s room is complete without cute posters!",
+    "sprite": "spr_poster",
+    "menuIndex": 2,
+    "available": "111101"
+  },
+  "obj_furn_poster_2": {
+    "title": "Poster",
+    "sprite": "spr_poster_2",
+    "menuIndex": 2,
+    "available": "111101"
+  },
+  "obj_furn_poster_3": {
+    "title": "Poster",
+    "sprite": "spr_poster_3",
+    "menuIndex": 2,
+    "available": "111101"
+  },
+  "obj_furn_snowballs": {
+    "title": "Snowballs",
+    "description": "I guess this is better than more snow lumps.",
+    "sprite": "spr_snowballs",
+    "menuIndex": 1,
+    "available": "000011"
+  },
+  "obj_furn_shovel": {
+    "title": "Shovel",
+    "description": "Shovel away the snow to get to more snow.",
+    "sprite": "spr_shovel",
+    "menuIndex": 1,
+    "available": "000011"
+  },
+  "obj_furn_sled": {
+    "title": "Sled",
+    "description": "Who am I kidding, Im too lazy to actually use this.",
+    "sprite": "spr_sled",
+    "menuIndex": 1,
+    "available": "000011"
+  },
+  "obj_furn_cake": {
+    "title": "Cake",
+    "description": "I want it to feel like christmas all year!",
+    "sprite": "spr_cake",
+    "menuIndex": 1,
+    "available": "000011"
+  },
+  "obj_furn_chicken": {
+    "title": "Fried Chicken",
+    "description": "It feels like christmas all year here in the arctic.",
+    "sprite": "spr_chicken",
+    "menuIndex": 1,
+    "available": "000011"
+  },
+  "obj_furn_fishing": {
+    "title": "Fishing Pole",
+    "description": "I’ll find something to eat other than ramen",
+    "sprite": "spr_fishing",
+    "menuIndex": 1,
+    "available": "000011"
+  },
+  "obj_furn_snow_shoes": {
+    "title": "Snow Shoes",
+    "sprite": "spr_snow_shoes",
+    "menuIndex": 1,
+    "available": "000011"
+  },
+  "obj_furn_daruma": {
+    "title": "Daruma Doll",
+    "description": "I’ll draw the other eye when I’ve overcome my social anxiety.",
+    "sprite": "spr_daruma",
+    "alt_sprite": "spr_daruma_both_eyes",
+    "menuIndex": 1,
+    "available": "111111",
+    "prefab": true
+  },
+  "obj_furn_plush_bear": {
+    "title": "Teddy Bear",
+    "description": "No, I’m not too old for stuffed animals.",
+    "sprite": "spr_plush_bear",
+    "menuIndex": 1,
+    "available": "111101"
+  },
+  "obj_furn_plush_bear_white": {
+    "title": "Teddy Polar Bear",
+    "description": "Actually just a regular stuffed bear that’s been in the snow for a while.",
+    "sprite": "spr_plush_bear_white",
+    "menuIndex": 1,
+    "available": "000011"
+  },
+  "obj_furn_plush_onigiri": {
+    "title": "Onigiri Plush",
+    "sprite": "spr_plush_onigiri",
+    "menuIndex": 1,
+    "available": "111001"
+  },
+  "obj_furn_plush_roll": {
+    "title": "Sushi Roll Plush",
+    "description": "What’s better to cuddle with than food?",
+    "sprite": "spr_plush_roll",
+    "menuIndex": 1,
+    "available": "111001"
+  },
+  "obj_furn_plush_sashimi": {
+    "title": "Sushi Plush",
+    "description": "Not actually for eating.",
+    "sprite": "spr_plush_sashimi",
+    "menuIndex": 1,
+    "available": "111001"
+  },
+  "obj_furn_plush_tanuki": {
+    "title": "Tanuki Plush",
+    "description": "I’m glad this tanuki plush doesn’t include the balls.",
+    "sprite": "spr_plush_tanuki",
+    "menuIndex": 1,
+    "available": "000101"
+  },
+  "obj_furn_plush_fish": {
+    "title": "Fish Plush",
+    "sprite": "spr_plush_fish",
+    "menuIndex": 1,
+    "available": "000011"
+  },
+  "obj_furn_plush_fugu": {
+    "title": "Fugu Plush",
+    "description": "Puffy and soft unlike the real thing.",
+    "sprite": "spr_plush_fugu",
+    "menuIndex": 1,
+    "available": "000011"
+  },
+  "obj_furn_famicom": {
+    "title": "Game Console",
+    "description": "Full of nostalgia.",
+    "sprite": "spr_famicom",
+    "menuIndex": 1,
+    "available": "111001"
+  },  
+  "obj_furn_cart": {
+    "title": "Video Games",
+    "description": "They don’t make games like they used to.",
+    "sprite": "spr_cart",
+    "menuIndex": 1,
+    "available": "111001"
+  },
+  "obj_furn_figure_1": {
+    "title": "Figure",
+    "description": "This figure has a detachable Skirt! Not that I ever use it...",
+    "sprite": "spr_figure_1",
+    "menuIndex": 1,
+    "available": "111101"
+  },
+  "obj_furn_figure_2": {
+    "title": "Figure",
+    "description": "I just use this figure for drawing reference. It’s not sexual, I swear.",
+    "sprite": "spr_figure_2",
+    "menuIndex": 1,
+    "available": "111101"
+  },
+  "obj_furn_manga": {
+    "title": "Manga",
+    "description": "A completed series.",
+    "sprite": "spr_manga",
+    "menuIndex": 1,
+    "available": "111101"
+  },
+  "obj_furn_clothes_stack": {
+    "title": "Clothes",
+    "sprite": "spr_clothes_stack",
+    "menuIndex": 1,
+    "available": "010001"
+  },
+  "obj_furn_dirty_clothes": {
+    "title": "Dirty Clothes",
+    "description": "Ok, maybe I’m a little messy but I still don’t like the stereotypes.",
+    "sprite": "spr_dirty_clothes",
+    "menuIndex": 1,
+    "available": "010001"
+  },
+  "obj_furn_pantsu": {
+    "title": "Pantsu",
+    "description": "No need to hunt for them, they’re right here!",
+    "sprite": "spr_pantsu",
+    "menuIndex": 1,
+    "available": "011001"
+  },
+  "obj_furn_sock": {
+    "title": "Sock",
+    "sprite": "spr_sock",
+    "menuIndex": 1,
+    "available": "011001"
+  },
+  "obj_furn_rack": {
+    "title": "Rack",
+    "sprite": "spr_rack",
+    "menuIndex": 2,
+    "available": "010001"
+  },
+  "obj_furn_shirt": {
+    "title": "White Shirt",
+    "sprite": "spr_shirt",
+    "menuIndex": 2,
+    "available": "010001"
+  },
+  "obj_furn_shirt_yellow": {
+    "title": "Yellow Shirt",
+    "sprite": "spr_shirt_yellow",
+    "menuIndex": 2,
+    "available": "010001"
+  },
+  "obj_furn_skirt": {
+    "title": "Blue Skirt",
+    "sprite": "spr_skirt",
+    "menuIndex": 2,
+    "available": "010001"
+  },
+  "obj_furn_skirt_red": {
+    "title": "Red Skirt",
+ 
+    "sprite": "spr_skirt_red",
+    "menuIndex": 2,
+    "available": "010001"
+  },
+  "obj_furn_maid_clothes": {
+    "title": "Maid Clothes",
+    "description": "For cosplay purposes.",
+    "sprite": "spr_maid_clothes",
+    "menuIndex": 2,
+    "available": "010001"
+  },
+  "obj_furn_lantern": {
+    "title": "Lantern",
+    "description": "It has my name on it.",
+    "sprite": "spr_lantern",
+    "menuIndex": 2,
+    "available": "101101",
+    "prefab": true
+  },
+  "obj_furn_katana": {
+    "title": "Katana",
+    "description": "For hermit home protection.",
+    "sprite": "spr_katana",
+    "menuIndex": 2,
+    "available": "000101"
+  },
+  "obj_furn_liquor": {
+    "title": "Liquor",
+    "description": "Goes surprisingly well with ramen.",
+    "sprite": "spr_liquor",
+    "menuIndex": 1,
+    "available": "111111"
+  },
+  "obj_furn_pillow": {
+    "title": "Pillow",
+    "description": "What, a pillow without anime girls on it?",
+    "sprite": "spr_pillow",
+    "menuIndex": 0,
+    "available": "111111"
+  },
+  "obj_furn_shamisen": {
+    "title": "Shamisen",
+    "description": "I’ll finally have the time to learn an instrument now that I don’t have to worry about people.",
+    "sprite": "spr_shamisen",
+    "menuIndex": 1,
+    "available": "000101"
+  },
+  "obj_furn_coffee_1": {
+    "title": "Canned Coffee",
+    "description": "Filled with milk and sugar. I can almost taste the coffee!",
+    "sprite": "spr_coffee_1",
+    "menuIndex": 1,
+    "available": "101101"
+  },
+  "obj_furn_coffee_2": {
+    "title": "Black Coffee",
+    "description": "A bitter drink for grown ups.",
+    "sprite": "spr_coffee_2",
+    "menuIndex": 1,
+    "available": "101101"
+  },
+  "obj_furn_water_jug": {
+    "title": "Water Jug",
+    "description": "I have to stock up on water so I am able to make instant ramen.",
+    "sprite": "spr_water_jug",
+    "menuIndex": 1,
+    "available": "000101"
+  },
+  "obj_furn_cans": {
+    "title": "Empty Cans",
+    "sprite": "spr_cans",
+    "menuIndex": 1,
+    "available": "001101"
+  },
+  "obj_furn_ac": {
+    "title": "Air Conditioner",
+    "description": "I keep the air very cold so I have a good excuse to never get out of bed.",
+    "sprite": "spr_ac",
+    "menuIndex": 2,
+    "available": "111011"
+  },
+  "obj_furn_trash_can": {
+    "title": "Trash Can",
+ 
+    "sprite": "spr_trash_can",
+    "menuIndex": 1,
+    "available": "111001"
+  },
+  "obj_furn_umbrella": {
+    "title": "Umbrella",
+    "description": "My skin is really sensitive from never getting any sun.",
+    "sprite": "spr_umbrella",
+    "menuIndex": 1,
+    "available": "001001"
+  },
+  "obj_furn_tv": {
+    "title": "CRT TV",
+    "description": "The proper way to play games.",
+    "sprite": "spr_tv_off",
+    "alt_sprite": "spr_tv_on",
+    "menuIndex": 1,
+    "available": "101001",
+    "prefab": true
+  },
+  "obj_furn_laptop": {
+    "title": "Laptop",
+    "description": "A portable computer. Like for when you’re in bed.",
+    "sprite": "spr_laptop",
+    "menuIndex": 1,
+    "available": "101001",
+    "prefab": true
+  },
+  "obj_furn_zen_garden": {
+    "title": "Zen Garden",
+    "description": "My plants can’t survive in a cave but that doesn’t mean I can’t have a garden.",
+    "sprite": "spr_zen_garden",
+    "menuIndex": 0,
+    "available": "000101"
+  },
+  "obj_furn_ramen_stock_1": {
+    "title": "Ramen Supply",
+    "description": "The only food a person needs.",
+    "sprite": "spr_ramen_stockpile_1",
+    "menuIndex": 0,
+    "available": "000111"
+  },
+  "obj_furn_ramen_stock_2": {
+    "title": "Ramen Supply",
+    "description": "Shrimp flavored, everyone’s favorite.",
+    "sprite": "spr_ramen_stockpile_2",
+    "menuIndex": 0,
+    "available": "000111"
+  },
+  "obj_furn_ramen_stock_3": {
+    "title": "Ramen Supply",
+    "description": "Enough to last a month!",
+    "sprite": "spr_ramen_stockpile_3",
+    "menuIndex": 0,
+    "available": "000111"
+  },
+  "obj_furn_snowman": {
+    "title": "Snowman",
+    "description": "Way better than real people.",
+    "sprite": "spr_snowman",
+    "menuIndex": 0,
+    "available": "000011"
+  },
+  "obj_furn_power_generator": {
+    "title": "Power Generator",
+    "description": "With this I can live comfortably anywhere!",
+    "sprite": "spr_power_generator",
+    "menuIndex": 3,
+    "available": "000111",
+    "prefab": true
+  },
+  "obj_furn_torch": {
+    "title": "Torch",
+    "description": "Who even needs electricity?",
+    "sprite": "spr_torch",
+    "animation": "anim_torch",
+    "menuIndex": 3,
+    "available": "000111",
+    "prefab": true
+  },
+  "obj_furn_cat": {
+    "title": "Lucky Cat",
+    "description": "I feel lucky when no one tries to talk to me.",
+    "sprite": "spr_cat",
+    "menuIndex": 3,
+    "animation": "anim_cat",
+    "available": "111111"
+  },
+  "obj_furn_clock": {
+    "title": "Clock",
+    "description": "It counts how much of my life I’ve wasted.",
+    "sprite": "spr_clock",
+    "menuIndex": 3,
+    "available": "101001",
+    "animation": "anim_clock",
+    "prefab": true
+  },
+  "obj_furn_pinwheel": {
+    "title": "Pinwheel",
+    "sprite": "spr_pinwheel",
+    "menuIndex": 3,
+    "available": "001011",
+    "animation": "anim_pinwheel",
+    "prefab": true
+  },
+  "obj_furn_balloon": {
+    "title": "Balloon",
+    "sprite": "spr_balloon",
+    "menuIndex": 3,
+    "animation": "anim_balloon",
+    "available": "001001"
+  }
+}

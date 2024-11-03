@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Player
+  - Furniture
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 225973287
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Menu
+    uniqueID: 324224069
+    locked: 0
+  - name: Furniture
+    uniqueID: 3995773313
+    locked: 0
+  - name: Forground
+    uniqueID: 611017917
+    locked: 0
+  - name: Text
+    uniqueID: 495031641
+    locked: 0
+  - name: FadeTransition
+    uniqueID: 3393873307
+    locked: 0
+  - name: PauseMenu
+    uniqueID: 1598923799
+    locked: 0
+  - name: Player
+    uniqueID: 805499673
+    locked: 0

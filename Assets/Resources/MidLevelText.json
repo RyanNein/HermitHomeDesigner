@@ -1,0 +1,534 @@
+{
+	"name_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "My name is Yamasen. It’s made out of the Chinese characters for mountain and hermit.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "The character for hermit is even made from the symbols for person and mountain.",
+					"name": true
+				},
+				{
+					"text": "As a hikikomori, I sometimes fantasize about living far away from society in the cave of some distant mountain. Then I can really live up to my name!",
+					"name": true,
+					"spr": "port_excited"
+				}
+			]
+		},
+		"targetRooms": [
+			0,
+			1
+		],
+		"used": false
+	},
+	"groc_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "Doing simple things like going outside can be difficult for a hikikomori. If I had my way, I’d never leave my home, but the need for things like food gets in the way.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "About once a month I take a trip to the store to stock up on instant ramen. I try to go when the least people are there.",
+					"name": true
+				},
+				{
+					"text": "I know for most people going to the store is something they do without any worry, but for me, it’s a real struggle and takes a lot of courage. I’m jealous of the people who can do normal things without trying.",
+					"name": true,
+					"spr": "port_sad"
+				},
+				{
+					"text": "I wonder if there is something I do easily that others struggle to do.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "I don’t do anything though...",
+					"name": true,
+					"spr": "port_coy"
+				},
+				{
+					"text": "Maybe that’s the thing!",
+					"name": true,
+					"spr": "port_surp"
+				}
+			]
+		},
+		"targetRooms": [
+			0,
+			1
+		],
+		"used": false
+	},
+	"closet_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "You may think I’m just hiding from my fears, but living inside a closet was a purely rational decision.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "People say they want freedom, but I’m not sure if they really do. Freedom is scary, so people give it up all the time. People turn to government, religion, and ideologies and pledge allegiances of all kinds just for the chance to not be free.",
+					"name": true
+				},
+				{
+					"text": "People need comfort that the real world rarely provides. Even fully grown adults sleep in the fetal position, coddled under blankets. They’re seeking the comfort of the womb, the comfort of not having any real freedom.",
+					"name": true
+				},
+				{
+					"text": "So it’s perfectly normal for me to live in this tiny closet.",
+					"name": true,
+					"spr": "port_excited"
+				}
+			]
+		},
+		"targetRooms": [
+			1
+		],
+		"used": false
+	},
+	"retire_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "My dream job is to be retired. To me, that sounds like living the dream.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "Not only does a retired person not have to work, but if they’re elderly they have great excuses to not do all the things I don’t like.",
+					"name": true
+				},
+				{
+					"text": "When I become a retired old woman, no one will judge me when I don’t have the energy to get up in the morning or to go outside or interact with people.",
+					"name": true
+				},
+				{
+					"text": "I’ll be able to live peacefully and quietly alone, staying inside and not having to worry about what people think.",
+					"name": true
+				},
+				{
+					"text": "Do you think it’s possible to retire without ever working to begin with?",
+					"name": true,
+					"spr": "port_coy"
+				}
+			]
+		},
+		"targetRooms": [
+			1,
+			2
+		],
+		"used": false
+	},
+	"rv_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "You may think it’s weird for me to be going from home to home, but you know, humans used to be nomadic creatures that would constantly change location.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "I’m kinda like a nomad, but instead of moving with a community, I move my home to wherever the community isn’t.",
+					"name": true
+				}
+			]
+		},
+		"targetRooms": [
+			2
+		],
+		"used": false
+	},
+	"cave_cheese_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "Did you know that the American government used to have caves filled with millions of pounds worth of cheese?",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "I wish I were living in that cave instead of this one, then all my needs would be met for free!",
+					"name": true,
+					"spr": "port_excited"
+				},
+				{
+					"text": "Ramen is a lot better than cheese though, so I guess I’m happy with this home too.",
+					"name": true,
+					"spr": "port_norm"
+				}
+			]
+		},
+		"targetRooms": [
+			3
+		],
+		"used": false
+	},
+	"cave_disc_2": {
+		"story": {
+			"pages": [
+				{
+					"text": "If I’m being honest, I’ve thought about living in a cave before, or more like fantasized about it.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "Living in a cave, I’ll never have to work or pay rent or deal with any of the normal life problems. It really is a perfect home for a Hikikomori!",
+					"name": true,
+					"spr": "port_excited"
+				},
+				{
+					"text": "Plus, now that I don’t have to worry about normal problems, I have so much time to do fun stuff like ah... um...",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "Well, I guess I can’t do much of anything here. I don’t have internet or TV and I’m definitely not going to do stuff outside.",
+					"name": true,
+					"spr": "port_coy"
+				},
+				{
+					"text": "That’s okay though, nothing is one of my favorite things to do!",
+					"name": true,
+					"spr": "port_excited"
+				}
+			]
+		},
+		"targetRooms": [
+			3
+		],
+		"used": false
+	},
+	"arctic_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "I may be safe from socialization for now, but there is still a concern for the future.",
+					"name": true,
+					"spr": "port_sad"
+				},
+				{
+					"text": "The population keeps on growing and growing and with that people inhabit more and more land. One day they might start building cities in the arctic and all my problems will come right back.",
+					"name": true,
+					"spr": "port_coy"
+				},
+				{
+					"text": "Who knows if there will be any place left to live alone?",
+					"name": true
+				}
+			]
+		},
+		"targetRooms": [
+			4
+		],
+		"used": false
+	},
+	"void_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "It’s great that I transcended my physical form, but now I’m curious about what my body is doing.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "I guess my body is still sitting on that iceberg and doing nothing.",
+					"name": true,
+					"spr": "port_coy"
+				},
+				{
+					"text": "Maybe that’s why I’ve been so successful at this whole meditation thing, I have so much experience doing nothing.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "Who knew that when I was a hikikomori and being depressed and doing nothing, I was actually developing a skill! That’s so cool!",
+					"name": true,
+					"spr": "port_excited"
+				}
+			]
+		},
+		"targetRooms": [
+			5
+		],
+		"used": false
+	},
+	"void_disc_2": {
+		"story": {
+			"pages": [
+				{
+					"text": "I’ve tried to hide away at the ends of the earth to get away from society and all the problems it causes me, but there really is no hope for that. Humans have a way of expanding and slowly taking over the world.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "Humanity has populated deserts and tundra and torn down parts of the natural world all to have more room to live. We even have giant, vertical buildings because there isn’t enough room on the real ground to hold everyone.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "Even If I could hide away on some distant planet it wouldn’t even matter. Eventually, humanity would catch up to me and I would have to find a new place to hide.",
+					"name": true,
+					"spr": "port_coy"
+				},
+				{
+					"text": "That’s why this solution of leaving the physical realm is the only way left to live for someone like me.",
+					"name": true,
+					"spr": "port_norm"
+				}
+			]
+		},
+		"targetRooms": [
+			5
+		],
+		"used": false
+	},
+	"bed_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "I usually spend my time doing the normal things hikikomori do like watching anime and playing video games. At least, that’s on the days I can actually get out of bed.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "Now that I think about it, I spend most of my time doing nothing at all.",
+					"name": true,
+					"spr": "port_coy"
+				},
+				{
+					"text": "I know this isn’t necessarily the most fulfilling lifestyle and I’ve tried to change that. Once in a while, I get a surge of motivation to completely change my life, but it always ends in failure pretty quickly and I return to old habits.",
+					"name": true,
+					"spr": "port_sad"
+				},
+				{
+					"text": "I worry that one day my parents will stop supporting me financially and I’ll be forced to be like a normal person. The thought is so paralyzing that it prevents me from getting out of bed some days.",
+					"name": true
+				}
+			]
+		},
+		"targetRooms": [
+			0
+		],
+		"targetItems": [
+			"obj_furn_bed"
+		],
+		"used": false
+	},
+	"dakimakura_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "Being a hikikomori can be pretty lonely sometimes. I’m not good at interacting with other people but that doesn’t mean I don’t want to be around them.",
+					"name": true,
+					"spr": "port_sad"
+				},
+				{
+					"text": "But there must be a lot of people like me which is why something like the dakimakura exists!",
+					"name": true,
+					"spr": "port_excited"
+				},
+				{
+					"text": "A dakimakura is a body pillow with a picture of anime characters on it. The phenomenon has become more and more popular. One guy even married his dakimakura!",
+					"name": true
+				},
+				{
+					"text": "After a while of cuddling my dakimakura, I can start to feel a little bit pathetic, but then I fall asleep.",
+					"name": true,
+					"spr": "port_norm"
+				}
+			]
+		},
+		"targetItems": [
+			"obj_furn_dakimakura"
+		],
+		"used": false
+	},
+	"uniform_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "Seeing my old school uniform here gets me thinking about my school days.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "It’s impossible to be a true hikikomori while attending school, but my isolating tendencies were still there. As soon as I graduated from school and went into the real world my hikikomori side grew full-fledged.",
+					"name": true
+				},
+				{
+					"text": "Even though I was awkward and didn’t fit in and really didn’t like school, I sometimes reminisce on those days because at least back then I could handle being around other people.",
+					"name": true,
+					"spr": "port_sad"
+				},
+				{
+					"text": "I’m not sure if it’s better to be lonely around people or lonely by yourself.",
+					"name": true
+				}
+			]
+		},
+		"targetItems": [
+			"obj_furn_clothes_stack"
+		],
+		"used": false
+	},
+	"cactus_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "I can relate a lot to cacti.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "Cacti are built for isolation. They can go a really long time without water and they live alone in the desert far from anyone that can intrude upon them. They even have spikes to fend people off with.",
+					"name": true
+				},
+				{
+					"text": "But having a protective exterior only means that there is something sensitive on the inside worth protecting. Inside the cactus is sweet juice after all.",
+					"name": true,
+					"spr": "port_excited"
+				},
+				{
+					"text": "A cactus is built for isolation, but I think it really just wants a hug. they even have arms, though they can’t move them.",
+					"name": true
+				}
+			]
+		},
+		"targetItems": [
+			"obj_furn_cactus"
+		],
+		"used": false
+	},
+	"ramen_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "I’ve always wanted to retreat from society, but it’s hard to get by without things like money and food. The perfect solution is to stockpile my favorite food: instant ramen.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "A pack of instant ramen cost 13 cents. If I eat that for every meal, that’s 39 cents per day. If I do this every day, a year’s food supply is only 142 dollars. How cheap!",
+					"name": true,
+					"spr": "port_excited"
+				},
+				{
+					"text": "If I can expect to live for about 60 more years, the entire food cost for the rest of my life is about 8500 dollars.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "Just think, for only a few thousand dollars all my worries can go away, and I can live in peace here for the rest of my life!",
+					"name": true,
+					"spr": "port_excited"
+				}
+			]
+		},
+		"targetItems": [
+			"obj_furn_ramen_stock_1",
+			"obj_furn_ramen_stock_2",
+			"obj_furn_ramen_stock_3"
+		],
+		"used": false
+	},
+	"fugu_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "Did you know people eat a poisonous fish called Fugu?",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "It’s considered a delicacy and costs a lot of money. Can you imagine spending a bunch of money on food that could kill you?",
+					"name": true
+				},
+				{
+					"text": "It makes me wonder if it even tastes good or if people eat it just for the thrill of it.",
+					"name": true
+				},
+				{
+					"text": "Meanwhile, I’m too scared to even talk to a single person...",
+					"name": true,
+					"spr": "port_coy"
+				},
+				{
+					"text": "Well, I think I’ll stick to eating instant ramen.",
+					"name": true,
+					"spr": "port_norm"
+				}
+			]
+		},
+		"targetItems": [
+			"obj_furn_plush_fugu"
+		],
+		"used": false
+	},
+	"simple_life_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "Is it silly to yearn for a simpler way of life?",
+					"name": true,
+					"spr": "port_coy"
+				},
+				{
+					"text": "I often wonder if people would be happier without all the innovations that brought about modern society.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "I’m sure life was still hard in the olden days, but I think it was easier for people to find meaning and value in living. Things have gotten so complicated no one knows where they are or what they’re doing anymore.",
+					"name": true
+				},
+				{
+					"text": "I fantasize about leaving the city to become a farmer or something, but I never do. I know that’s not realistic and is just wishful thinking. Maybe there is no escape from the fundamental problems of life.",
+					"name": true,
+					"spr": "port_sad"
+				}
+			]
+		},
+		"targetItems": [
+			"obj_furn_shamisen",
+			"obj_furn_rake",
+			"obj_furn_snow_shoes"
+		],
+		"used": false
+	},
+	"daoism_disc": {
+		"story": {
+			"pages": [
+				{
+					"text": "Are you familiar with Daoism?\nI’ve been thinking of becoming a Daoist.",
+					"name": true,
+					"spr": "port_norm"
+				},
+				{
+					"text": "Daoists believe in the way of non-action, or in other words: doing nothing!",
+					"name": true,
+					"spr": "port_excited"
+				},
+				{
+					"text": "The great leaders and sages of the religion were hermits who escaped society to live in nature alone and understand the value of nothing. Doesn’t that sound great!",
+					"name": true
+				},
+				{
+					"text": "Daoism really is the best religion for a hikikomori, and no, I’m not just using it as an excuse to not confront my problem.",
+					"name": true,
+					"spr": "port_norm"
+				}
+			]
+		},
+		"targetItems": [
+			"obj_furn_buddha",
+			"obj_furn_fox"
+		],
+		"used": false
+	}
+}
